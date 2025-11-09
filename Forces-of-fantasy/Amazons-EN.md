@@ -9,17 +9,17 @@ This document allows you to play a Amazons Army from the Warhammer Fantasy Battl
 The rules contained within this document allow players the opportunity to try out the Warhammer: The Old World rules using models they may have in their collection. They are not intended for use in matched play events and will not be updated in line with any future Warhammer: the Old World publications.
 
 
-# amazons
+# Amazons
 
 Amazons are unique in that their race has no males—reproduction takes place by parthenogenic reaction controlled by drugs. When the Slann ruled the world, Amazons were created to undertake many mundane tasks and labor. When the warp-gates collapsed, the Amazons already shared the high civilization of the Slann, serving as technicians and helpmates. As a result, their history has been one of slow degeneration under the shadow of the Slann's heritage, preserving many of the higher sciences lost to the Slann themselves.
 
 
 This document contains the following information:
 
-**Grand Army Composition List**: The default army composition list for the Lizardmen.
+**Grand Army Composition List**: The default army composition list for the Amazons.
 **Profiles**: Every model available to the Lizardmen has a profile. Here, you will find that model’s characteristics, its equipment, its points value, details of any special rules unique to it and more.
 **Magic Items**: As well as the Common magic items detailed in the Warhammer: the Old World rulebook, this army list includes a number of magic items unique to the Lizardmen.
-**Special Rules**: This section covers rules unique to the Lizardmen.
+**Special Rules**: This section covers rules unique to the Amazons.
 **The Lore of…**: Unique spells used in conjunction with the Lores of Magic found in the Warhammer: the Old World rulebook.
 
 
@@ -43,7 +43,7 @@ This army list is intended for use alongside the ‘Forming Units’ and ‘Warh
 **Characters**
 
 Up to 50% of your army’s points value may be spent on:
- - 0-1 Mother of sisterhood per 1,000 points
+ - 0-1 Mother of Sisterhood per 1,000 points
  - 0-1 Serpent Priestess per 1,000 points
 
 **Core**
@@ -57,21 +57,21 @@ At least 25% of your army’s points value must be spent on:
 
 Up to 50% of your army’s points value may be spent on:
 
- - 0-1 Amazon culchan rider
- - Piranha Warrior, Python Warrior 
+ - 0-1 Amazon Culchan rider
+ - Piranha Warrior
+ - Python Warrior 
 
 **Rare**
 Up to 25% of your army’s points value may be spent on:
- - 0-1 Amazon cold One rider,Koka-kalim
- - jaguar warrior
+ - 0-1 Amazon cold One rider
+ - Koka-kalim
+ - Jaguar warrior
 
 **Mercenaries**
-Up to 20% of your army’s points value may be spent
-on mercenaries.
+Up to 20% of your army’s points value may be spent on mercenaries.
 
 **Allies**
-Up to 25% of your army’s points value may be spent on a single
-allied contingent drawn from:
+Up to 25% of your army’s points value may be spent on a single allied contingent drawn from:
 
 • One of the following Grand Army composition lists:
 - Lizardmen
@@ -224,8 +224,7 @@ Options:
 - Upgrade one model to a musician ................................................................ +5 points per unit
 
 
-Special Rules: Armour Bane (1, Cold One only), Armoured Hide (1), Close Order,Stupidity,
-Swiftstride
+Special Rules: Armour Bane (1, Cold One only), Armoured Hide (1), Close Order,Stupidity, Swiftstride
 
 
 ### Eagle Warrior 
@@ -266,7 +265,7 @@ Equipment: Claw of the old ones (see below)
 |----------------------|--------|-----|----|---------------|
 | Claw of the old ones | Combat | S+1 | -2 |               |
 
-**Claw of the old ones** : the 
+**Claw of the Old Ones** : the 
 
 ### Python Warrior
 
@@ -310,18 +309,16 @@ In battle, Piranha Warrior perform the special attacks :
 (+1) special rule.
 
 
-### Koalt
+### Coalt
 
 |                  | M | WS | BS | S | T    | W    | I | A | Ld | Points |
 |------------------|---|----|----|---|------|----- |---|---|----|--------|
-| Koalt            | 6 | 6  | -  | 7 | (+3) | (+6) | 4 | 3 | -  |  +210  |
+| Coalt            | 6 | 6  | -  | 7 | (+3) | (+6) | 4 | 3 | -  |  +210  |
 
 Troop Type: Behemoth
 Base Size: 60 x 100 mm
 Unit Size: 1
-Equipment: serrated maw (see below),
-soporific breath (see below) and
-draconic scales (counts as full plate armour)
+Equipment: serrated maw (see below), soporific breath (see below) and draconic scales (counts as full plate armour)
 **Special Rules**: 
  - Close Order
  - Fly (10)
@@ -341,11 +338,9 @@ Notes: In combat, this model must make one of its attacks each turn with this we
 |--------------------|--------|---|-----|--------------------------------------|
 | Soporific breath   | N/A    | 2 | N/A | Breath Weapon                        |
 
-**Notes**: No armour save is permitted against wounds caused by soporific breath (Ward and
-Regeneration saves can be attempted as normal).
+**Notes**: No armour save is permitted against wounds caused by soporific breath (Ward and Regeneration saves can be attempted as normal).
 
-**Character Mount**: Only one Koalt may only be included in your army as
-a character’s mount. Its points are added to that of its rider.
+**Character Mount**: Only one Koalt may only be included in your army as a character’s mount. Its points are added to that of its rider.
 
 ## amazons Magic Items
 
@@ -356,12 +351,12 @@ Extremely Common Magic Items: Any magic item marked with an asterisk (*) is cons
 ## Amazons special rules
 
 
-**Blades of the ancients** : The Amazons carry a special kind of weapon of unknown origin, wich they call the Blades of the Ancients. These weapons are rumoured to be rare and mush sought after High Age artefacts. Despite their vast age they are still powerful, the gems set within them said blaze with the captures fires of a falling star.
+**Blades of the Old Ones** : The Amazons carry a special kind of weapon of unknown origin, wich they call the Blades of the Old Ones. These weapons are rumoured to be rare and mush sought after High Age artefacts. Despite their vast age they are still powerful, the gems set within them said blaze with the captures fires of a falling star.
 
-The blades give the amazons +1 Strength in close combat. Furthermore, they projects a shield or arcane energy around the wearer, granting her a 6+ Ward save.
+The Blades give the amazons +1 Strength in close combat. Furthermore, they projects a shield or arcane energy around the wearer, granting her a 6+ Ward save.
 
 In addition the Amazons can point the baldes at the enemy and unleash the very flames of the sun itself in the shooting phase. This grants each Amazon a missile attack with a range of 12'' wich causes a Strength 3 hit, No penalities from range  or movement apply whene the amazons use this attack.
 
-**skirmishers** : Amazons are well accustomed to jungle warfare and as such they are regarded as skirmishers. Should they required to rank un in order to fight in a melee. (Anakonda, Humming Bird,and Pirrana must be positioned in the front of rank)
+**Skirmishers** : Amazons are well accustomed to jungle warfare and as such they are regarded as skirmishers. Should they required to rank un in order to fight in a melee. (Anakonda, Humming Bird,and Pirrana must be positioned in the front of rank)
 
-**Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules (like WFB6 Warhamer Realms: Lustria ) they are immune to the same Encounters as the Lizardmen.
+**Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules (like found to WFB6 Warhamer Realms: Lustria) they are immune to the same Encounters as the Lizardmen.
