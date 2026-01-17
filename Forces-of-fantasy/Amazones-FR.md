@@ -2,7 +2,7 @@
 
 Liste d’armée communautaire non officielle (Legacy)
 
-Pour une utilisation avec les règles de Warhammer : The Old World  
+Pour une utilisation avec les règles de Warhammer: The Old World  
 Ce document vous permet de jouer une armée d’Amazones de la gamme Warhammer Fantasy Battles dans des parties utilisant les règles de Warhammer : The Old World. Pour utiliser le contenu de ce document, vous aurez besoin d’un exemplaire du livre de règles de Warhammer : The Old World.
 
 Les règles contenues dans ce document offrent aux joueurs l’opportunité d’essayer les règles de Warhammer : The Old World en utilisant les figurines qu’ils peuvent avoir dans leur collection. Elles ne sont pas destinées à être utilisées lors d’événements compétitifs et ne seront pas mises à jour en fonction de futures publications de Warhammer : The Old World.
