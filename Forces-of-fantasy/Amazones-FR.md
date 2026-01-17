@@ -1,14 +1,15 @@
 # Amazones
 
-Liste d’armée communautaire non officielle (Legacy)
+Liste d’armée communautaire non officielle de type Liste Léguée (Legacy Armylist)
+Projet coordoné par TOTOleHero. Discussion sur 
 
-Pour une utilisation avec les règles de Warhammer : The Old World  
-Ce document vous permet de jouer une armée d’Amazones de la gamme Warhammer Fantasy Battles dans des parties utilisant les règles de Warhammer : The Old World. Pour utiliser le contenu de ce document, vous aurez besoin d’un exemplaire du livre de règles de Warhammer : The Old World.
+Pour une utilisation avec les règles de Warhammer: The Old World  
+Ce document vous permet de jouer une armée d’Amazones de la gamme Warhammer Fantasy Battles dans des parties utilisant les règles de Warhammer: The Old World. Pour utiliser le contenu de ce document, vous aurez besoin d’un exemplaire du livre de règles de Warhammer: The Old World.
 
-Les règles contenues dans ce document offrent aux joueurs l’opportunité d’essayer les règles de Warhammer : The Old World en utilisant les figurines qu’ils peuvent avoir dans leur collection. Elles ne sont pas destinées à être utilisées lors d’événements compétitifs et ne seront pas mises à jour en fonction de futures publications de Warhammer : The Old World.
+Les règles contenues dans ce document offrent aux joueurs l’opportunité d’essayer les règles de Warhammer: The Old World en utilisant les figurines qu’ils peuvent avoir dans leur collection. Elles ne sont pas destinées à être utilisées lors d’événements compétitifs et ne seront pas mises à jour en fonction de futures publications de Warhammer: The Old World.
 
 
-# amazones
+# Amazones
 
 Les Amazones sont uniques en ce que leur race ne possède aucun mâle — la reproduction se fait par réaction parthénogénétique contrôlée par des drogues. Lorsque les Slanns régnaient sur le monde, les Amazones ont été créées pour accomplir de nombreuses tâches et travaux ordinaires. Lorsque les portes de warp se sont effondrées, les Amazones partageaient déjà la haute civilisation des Slanns, servant de techniciennes et d’assistantes. En conséquence, leur histoire est celle d’une lente dégénérescence dans l’ombre de l’héritage des Slanns, préservant nombre des sciences supérieures perdues par les Slanns eux‑mêmes.
 
